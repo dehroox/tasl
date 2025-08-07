@@ -50,6 +50,8 @@ Diagnostics:
       - portability-*
       - readability-*
       - misc-*
+    Remove:
+      - cert-err34-c
 Index:
   Background: Build
 
